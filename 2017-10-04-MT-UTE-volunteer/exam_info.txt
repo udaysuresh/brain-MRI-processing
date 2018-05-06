@@ -1,0 +1,3 @@
+    1       10/04/17   LOCALIZER             30 images
+    2       10/04/17   T1 SPGR PRE-GAD       176 images
+    3       10/04/17   UTE multiecho sat     1360 images
