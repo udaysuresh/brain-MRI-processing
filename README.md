@@ -9,3 +9,5 @@ An illustration of the pipeline that processes the images obtained from 3T MRI
 Working with volunteer data from T1 SPGR PRE-GAD (DCM folder 2)and UTE multiecho sat (DCM folder 3) to be compared against each other.
 
 Results of dcm2nii conversion for both T1 and UTE are aggregated in preproc folder 
+
+<img src="pics/post-fast.png">
