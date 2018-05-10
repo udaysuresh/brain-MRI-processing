@@ -10,4 +10,5 @@ Working with volunteer data from T1 SPGR PRE-GAD (DCM folder 2)and UTE multiecho
 
 Results of dcm2nii conversion for both T1 and UTE are aggregated in preproc folder 
 
+After BET/FAST processing (imaged through Papaya visualizer):
 <img src="pics/post-fast.png">
